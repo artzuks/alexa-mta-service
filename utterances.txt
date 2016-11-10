@@ -1,0 +1,8 @@
+GetStatus how is the {Subway} running
+GetStatus how is the {Subway} train running
+GetStatus how the {Subway} train is running
+GetStatus how the {Subway} is running
+GetStatus what is the {Subway} status
+GetStatus what is the {Subway} train status
+GetStatus what the {Subway} status is
+GetStatus what the {Subway} train status is

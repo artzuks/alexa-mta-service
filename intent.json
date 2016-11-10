@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "GetStatus",
+      "slots": [
+        {"name":"Subway",
+         "type":"SUBWAY"
+        }
+      ]
+    }
+  ]
+ }
