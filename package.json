@@ -1,0 +1,29 @@
+{
+  "name": "alexa-mta-service",
+  "version": "1.0.0",
+  "description": "Alexa skill to respond with mta service status",
+  "main": "index.js",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru5k1/alexa-mta-service.git"
+  },
+  "keywords": [
+    "mta",
+    "alexa",
+    "subway"
+  ],
+  "author": "Art Zuks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ru5k1/alexa-mta-service/issues"
+  },
+  "homepage": "https://github.com/ru5k1/alexa-mta-service#readme"
+}
